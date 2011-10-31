@@ -1,1 +1,1 @@
-Look for documentation at [project page](http://laughedelic.github.com/HaTeXExtension/).
+Here is [online documentation](http://laughedelic.github.com/HaTeXExtension/doc).
